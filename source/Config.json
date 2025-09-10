@@ -1,0 +1,43 @@
+{
+    "node_name": "gate",
+    "node_version": 1,
+    "node_subversion": 11,
+    "node_port": 3000,
+    "node_private": "b71d53997fcaaaa2b1c9ce005af9c1c6",
+    "node_token": "c097dd31c55d5549260e62b69bad114389cf54459a4a5fd58dedf9165a6d3813",
+    "tech_token": "ee2d81aca71f1fbdc0c1b7f6d538a0e332f095877a55160af4ef9a49a205563766d1bdd308c255410ab6c920ab62fbd8",
+
+    "linked_nodes": {
+        
+        "database": {
+            "name": "db",
+            "version": 1,
+            "node_subversion": 7,
+            "token": "b5f96241f7eeb7fac09eb80f6840d931cd3f1f032916df506fad9245526af8df",
+            "host": "http://localhost",
+            "port": 3001,
+            "private": "9993bb8e4c5fc6349d01181b10b843be"
+        },
+
+        "static": {
+            "name": "static",
+            "version": 1,
+            "node_subversion": 0,
+            "token": "094e214a6a3fe58123a9882b15a216322ba224a4cff435ce8f18aa0628188d2b",
+            "host": "http://localhost",
+            "port": 3002,
+            "private": "89bf0f0e78c17f967653dba0e747028d"
+        },
+
+        "mailer": {
+            "name" : "mailer",
+            "version" : 1,
+            "node_subversion": 2,
+            "token": "2e4330b80641225bd3e1be739edf9532aee3370e6ca188d45a32e554d68c2e34",
+            "host": "http://localhost",
+            "port": 3003,
+            "private": "99bb411b44b7a1084ac25aaf1169fb8e"
+        }
+
+    }
+}
