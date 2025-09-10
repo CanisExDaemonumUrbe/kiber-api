@@ -1,0 +1,21 @@
+{
+    "k1":{
+        "host":"smtp.beget.com",
+        "port":465,
+        "secure": true,
+        "auth": {
+            "user":"k1@kiber1.com",
+            "pass":"3FAne*cY"
+        }
+    },
+    "app":{
+        "host":"smtp.beget.com",
+        "port":465,
+        "secure": true,
+        "auth": {
+            "user":"app@kiber1.com",
+            "pass":"9PE0%RSolwgD"
+        }
+    }
+
+}
