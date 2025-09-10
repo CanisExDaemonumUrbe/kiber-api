@@ -1,0 +1,11 @@
+{
+    "node_name": "db",
+    "node_version": 1,
+    "node_subversion": 7,
+    "node_port": 3001,
+    "node_private": "9993bb8e4c5fc6349d01181b10b843be",
+    "node_token": "b5f96241f7eeb7fac09eb80f6840d931cd3f1f032916df506fad9245526af8df",
+    "tech_token": "ee2d81aca71f1fbdc0c1b7f6d538a0e332f095877a55160af4ef9a49a205563766d1bdd308c255410ab6c920ab62fbd8",
+
+    "linked_nodes": {}
+}
