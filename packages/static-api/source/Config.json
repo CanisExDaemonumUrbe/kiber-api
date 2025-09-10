@@ -1,0 +1,14 @@
+{
+    
+    "path_to_static" : "../static/uploadedFiles/",
+    
+    "node_name" : "static",
+    "node_version" : 1,
+    "node_port" : 3002,
+    "node_subversion": 2,
+    "node_private" : "89bf0f0e78c17f967653dba0e747028d",
+    "node_token" : "094e214a6a3fe58123a9882b15a216322ba224a4cff435ce8f18aa0628188d2b",
+    "tech_token" : "ee2d81aca71f1fbdc0c1b7f6d538a0e332f095877a55160af4ef9a49a205563766d1bdd308c255410ab6c920ab62fbd8",
+
+    "linked_nodes" : {}
+}
