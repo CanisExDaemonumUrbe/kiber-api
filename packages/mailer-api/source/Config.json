@@ -1,0 +1,11 @@
+{
+    "node_name": "mailer",
+    "node_version": 1,
+    "node_subversion": 2,
+    "node_port": 3003,
+    "node_private": "99bb411b44b7a1084ac25aaf1169fb8e",
+    "node_token": "2e4330b80641225bd3e1be739edf9532aee3370e6ca188d45a32e554d68c2e34",
+    "tech_token": "ee2d81aca71f1fbdc0c1b7f6d538a0e332f095877a55160af4ef9a49a205563766d1bdd308c255410ab6c920ab62fbd8",
+
+    "linked_nodes": {}
+}
