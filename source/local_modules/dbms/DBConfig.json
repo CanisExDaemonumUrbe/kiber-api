@@ -1,0 +1,19 @@
+{
+    "active_connection" : "kiber-club_main",
+
+    "kiber-club_main":{
+        "host":"kiber-one.club",
+        "port":3306,
+        "user":"remote",
+        "database":"kiber-kab",
+        "password":"B71199EBD070B36BEAB7317920C2C2F1D777DF8D05E5527D8458FDA57CB17A7A"
+    },
+
+    "kiber-club_test":{
+        "host":"apitest.na4u.ru",
+        "port":3306,
+        "user":"remote",
+        "database":"kiber-kab",
+        "password":"password"
+    }
+}
